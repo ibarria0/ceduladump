@@ -1,4 +1,4 @@
-panacompra
+cedula_dump.py
 ==========
 
 Libreria para verificacion de cedulas de la Republica de Panama.
