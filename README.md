@@ -15,8 +15,8 @@ usage
 ------
 ```python
 >>> from cedula_dump import query_cedulas
->>> cedulas = query_cedulas(['8-832-1777','8-888-8888'])
-[{'primer_apellido': 'Espino', 'provincia': 'PANAMÁ', 'pais': 'PANAMÁ', 'segundo_nombre': 'Miguel', 'numero': '8-832-1777', 'segundo_apellido': 'Silva', 'primer_nombre': 'Victor'}, None]
+>>> cedulas = query_cedulas(['...........','8-888-8888'])
+[{'primer_nombre': 'Ivan', 'pais': 'PANAMÁ', 'provincia': 'PANAMÁ', 'primer_apellido': 'Barria', 'segundo_apellido': 'Grimaldo', 'segundo_nombre': 'Arturo', 'numero': '..........'}, None]
 
 ```
 
